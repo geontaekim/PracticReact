@@ -1,6 +1,6 @@
 import './App.css';
 import InputSample from './Components/InputSample';
-import InputSampleOther from './Components/InputSampleOther' 
+
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
   return (
     <div >
 
-    <InputSampleOther />
+    <InputSample />
 
     </div>
   );
